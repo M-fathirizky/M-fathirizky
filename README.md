@@ -1,10 +1,14 @@
-## Hi there 👋
+![fathir](img/github-header-image.png)
 
+
+<img src="https://raw.githubusercontent.com/M-fathirizky/M-fathirizky/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **M-fathirizky/M-fathirizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-     ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
